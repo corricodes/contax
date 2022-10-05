@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "stimulus": "^3.1.0"
+  }
+}
