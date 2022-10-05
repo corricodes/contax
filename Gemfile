@@ -13,8 +13,6 @@ gem "stimulus-rails"
 gem "jbuilder"
 gem "tzinfo-data"
 gem "bootsnap", require: false
-gem 'jquery-rails', '~> 4.5'
-gem 'webpacker', '~> 5.4', '>= 5.4.3'
 gem 'devise', '~> 4.8', '>= 4.8.1'
 
 group :development, :test do
